@@ -94,3 +94,8 @@ If harmony gives rise to form, and form encodes meaning — then decoding Saturn
    "The universe is not made of atoms — it's made of music." — Unknown
 
 
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15830039.svg)](https://doi.org/10.5281/zenodo.15830039)
+
+
+
