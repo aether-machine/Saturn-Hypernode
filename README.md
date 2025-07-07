@@ -33,13 +33,13 @@ This makes the Saturn system a kind of resonant Rosetta Stone for uncovering the
 
 🧠 Core Concepts
 
-  - Orbital Harmonics: Each moon contributes a wave based on its orbital radius and period.
+ - Orbital Harmonics: Each moon contributes a wave based on its orbital radius and period.
 
-- Radial Interference: A Gaussian envelope localizes each wave to its orbital path.
+ - Radial Interference: A Gaussian envelope localizes each wave to its orbital path.
 
-  -  Symmetry Overlay: The model can impose angular symmetry (e.g. 6-fold) to simulate vortex structures.
+ - Symmetry Overlay: The model can impose angular symmetry (e.g. 6-fold) to simulate vortex structures.
 
-   - Implicit Order: The total wavefield reveals interference nodes and attractors — possible “geometric encodings” of the Saturn system.
+ - Implicit Order: The total wavefield reveals interference nodes and attractors — possible “geometric encodings” of the Saturn system.
 
 📊 Example Output
 
@@ -69,7 +69,7 @@ pip install numpy matplotlib
 
 Run the script:
 
-  -  python saturn_equation.py
+python saturn_equation.py
 
 📚 References and Theoretical Inspiration
 
