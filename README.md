@@ -1,5 +1,5 @@
 # Saturn-Hypernode
-Modeling the field structure or standing wave geometry of the Saturnian system to reverse engineer the “Saturn Equation” — a mathematical attractor that translates orbital frequencies into vortex geometry, the interference blueprint of ordered reality and a frequency-based scaffold beneath physical forms.
+Modeling the field structure or standing wave geometry of the Saturnian system to reverse engineer the “Saturn Equation” — a mathematical attractor that translates orbital frequencies into vortex geometry, the interference blueprint of ordered reality and a frequency-based scaffold beneath physical form.
 
 🔭 Overview
 
