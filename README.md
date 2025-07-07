@@ -18,6 +18,7 @@ If we can demonstrate that the orbital frequencies of Saturn’s moons interfere
 - A universal attractor is revealed: The Saturn Equation becomes a portable blueprint for structure formation across all scales — from DNA to plasma physics, from planetary weather systems to quantum coherence.
 
 This makes the Saturn system a kind of resonant Rosetta Stone for uncovering the implicit order behind physical reality.
+
 🔬 What This Model Does
 
   - Simulates the orbital frequencies of Saturn's major moons
