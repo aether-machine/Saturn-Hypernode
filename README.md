@@ -30,9 +30,9 @@ We propose that this hexagon emerges from:
 
 The basic wave equation modeled from each moon is:
 
-\[
+$$\[
 \psi_i(r, \theta, t) = \sin(k_i r - \omega_i t + \phi_i)
-\]
+\]$$
 
 Where:
 - \( k_i = \frac{2\pi}{\lambda_i} \) is the wave number associated with the moon’s orbital radius.
