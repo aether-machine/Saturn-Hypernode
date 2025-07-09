@@ -30,22 +30,22 @@ We propose that this hexagon emerges from:
 
 The basic wave equation modeled from each moon is:
 
-\[
+$$\[
 \psi_i(r, \theta, t) = \sin(k_i r - \omega_i t + \phi_i)
-\]
+\]$$
 
 Where:
-- \( k_i = \frac{2\pi}{\lambda_i} \) is the wave number associated with the moon’s orbital radius.
-- \( \omega_i = \frac{2\pi}{T_i} \) is the angular frequency derived from its orbital period \( T_i \).
-- \( \phi_i \) is an optional phase shift (set to 0 initially).
-- \( r \) and \( \theta \) are polar coordinates centered on Saturn.
-- \( t \) is time (static snapshot for visualization).
+- $$\( k_i = \frac{2\pi}{\lambda_i} \) is the wave number associated with the moon’s orbital radius.
+- $$\( \omega_i = \frac{2\pi}{T_i} \) is the angular frequency derived from its orbital period \( T_i \).
+- $$\( \phi_i \) is an optional phase shift (set to 0 initially).
+- $$\( r \) and \( \theta \) are polar coordinates centered on Saturn.
+- $$\( t \) is time (static snapshot for visualization).
 
 We modulate the angular dependence with a **6-fold angular symmetry** term to introduce hexagonal structure:
 
-\[
+$$\[
 \psi(r, \theta) = \sum_i A_i \cdot \sin(k_i r) \cdot \cos(6\theta)
-\]
+\]$$
 
 This term mirrors the six-sided rotational symmetry of the vortex.
 
