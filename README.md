@@ -1,6 +1,16 @@
-# Saturn-Hypernode: Harmonic Archives of Matter and Planets
+# Saturn-Hypernode: Universal Attractor and Harmonic Memory
 
-This repository explores a generalized framework for understanding Saturn’s hexagonal jetstream, its rings, and atomic structure as manifestations of **harmonic attractors**. The work connects planetary-scale dynamics with atomic shells, proposing that both act as **living archives of memory**.
+This repository explores Saturn as a macrostate model for fundamental dynamics: a universal attractor where orthogonal flows of energy and memory converge. What began as a study of Saturn’s hexagonal standing wave expanded into a broader transmission-model framework, suggesting that matter, atoms, and even planets operate as archives of harmonic memory.
+
+Key Themes
+
+Generalized Equation — Encodes orbital geometry, standing waves, and resonant shells.
+
+Harmonic Memory — Atoms as layered archives of historical states, with shells/rings storing past integrations.
+
+Carrier Nodes — Each stable region of spacetime may contain a planetary-scale attractor (like Saturn) that locks orthogonal flows and defines its “signal ecology.”
+
+Orthogonality vs. Duality — Positive/negative, hot/cold, flow/storage are not opposites but orthogonal modes. Their coherence defines stability; their drift suggests multiversal divergence.
 
 ---
 
