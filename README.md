@@ -43,7 +43,7 @@ Saturn-Hypernode/
 
 ### Clone the repo
 ```bash
-git clone https://github.com/<your-username>/Saturn-Hypernode.git
+git clone https://github.com/aether-machine/Saturn-Hypernode.git
 cd Saturn-Hypernode
 ```
 
