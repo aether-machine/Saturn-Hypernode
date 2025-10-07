@@ -24,8 +24,8 @@ Every stable node (atom, planet, or star) couples two complementary regimes:
 
 | Mode             | Character          | Physical Analogy                  | Function                       |
 | ---------------- | ------------------ | --------------------------------- | ------------------------------ |
-| **Cold storage** | Local, persistent  | Nucleus / Planetary core          | Integrates and retains history |
-| **Hot storage**  | Non-local, dynamic | Electron shells / Planetary rings | Transmits and refreshes state  |
+| **Hot storage**  | Local, persistent  | Nucleus / Planetary core          | Integrates and retains history |
+| **Cold storage** | Non-local, dynamic | Electron shells / Planetary rings | Transmits and refreshes state  |
 
 Their interaction forms an *orthogonal attractor*: a self-maintaining exchange between accumulation and transmission.
 When coherence is high, the system appears stable (e.g., a circular orbit or atomic shell). When coherence shifts, energy is rewritten, and the archive evolves.
