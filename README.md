@@ -99,7 +99,11 @@ See [`docs/harmonic_memory.md`](docs/harmonic_memory.md) for a full write-up.
 This project builds on insights into rotational harmonics, planetary geometry, and atomic structure, aiming to bridge physics, cosmology, and metaphysics.
 
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17236508.svg)](https://doi.org/10.5281/zenodo.17236508)
+
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17410519.svg)](https://doi.org/10.5281/zenodo.17410519)
+
+
 
 
 
