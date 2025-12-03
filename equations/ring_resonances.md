@@ -18,9 +18,9 @@ stabilized by resonance conditions that “freeze” certain modes into geometry
 The generalized attractor equation describes how oscillatory modes combine 
 to produce standing structures in a dynamic field:
 
-$$\[
+$$\
 F(r, \theta, t) = \sum_n A_n \, e^{i(\omega_n t + \phi_n)} \, f_n(r, \theta)
-\]$$
+\$$
 
 ### Term Annotations
 
@@ -41,9 +41,9 @@ The exponential term $$\( e^{i(\omega_n t + \phi_n)} \)$$ encodes the *temporal 
 Stable ring or shell boundaries occur at radii where the field’s spatial component
 forms a **standing-wave node**, i.e. where both the mode function and its radial derivative vanish:
 
-$$\[
+$$\
 R_m = \{\, r \mid f_m(r, \theta) = 0 \;\text{and}\; \partial_r f_m(r, \theta) = 0 \,\}
-\]$$
+\$$
 
 ### Interpretation
 
