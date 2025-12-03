@@ -22,15 +22,15 @@ A carrier node can be modeled as a central potential with a gaseous shell that s
 
 Equation for mode $$(A_n)$$:
 
-$$[
+$$
 \ddot A_n + 2\gamma_n \dot A_n + \omega_n^2 A_n = F_n^\text{ext}(t) + \sum_{m} C_{nm} A_m
-]$$
+$$
 
 Synchronization condition:
 
-$$[
+$$
 |\omega_n - \Omega| \le K
-]$$
+$$
 
 ---
 
