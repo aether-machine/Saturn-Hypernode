@@ -10,9 +10,9 @@ This framework extends classical oscillator models by explicitly coupling energe
 
 The base form of the carrier node equation:
 
-$$\[
+$$\
 \ddot{A}_n + 2\gamma_n \dot{A}_n + \omega_n^2 A_n = F_n^{\text{ext}}(t) + \sum_m C_{nm} A_m
-\]$$
+\$$
 
 ### Term Annotations
 
@@ -31,9 +31,9 @@ $$\[
 
 Resonant phase-locking between a local mode and an external driver occurs when:
 
-$$\[
+$$\
 |\omega_n - \Omega| \leq K
-\]$$
+\$$
 
 | Symbol | Meaning | Interpretation |
 |:-------|:----------|:----------------|
