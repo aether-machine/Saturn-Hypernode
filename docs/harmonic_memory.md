@@ -36,15 +36,15 @@ When coherence is high, the system appears stable (e.g., a circular orbit or ato
 
 The general attractor field can be expressed as:
 
-$$[
+$$
 F(r,\theta,t) = \sum_n A_n e^{i(\omega_n t + \phi_n)} f_n(r,\theta)
-]$$
+$$
 
 Stable radii occur when both the amplitude and its radial gradient vanish:
 
-$$[
+$$
 R_m = {, r \mid f_m(r,\theta)=0,; \partial_r f_m(r,\theta)=0 ,}
-]$$
+$$
 
 These nodes are **standing-wave memory sites**, recording resonant modes as persistent geometry.
 
