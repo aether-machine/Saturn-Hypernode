@@ -27,23 +27,19 @@ The dynamics are deliberately simple:
 
 - $$\(F\)$$ diffuses, can grow or decay, and is nonlinearly saturated:
 
-  $$
-  \frac{\partial F}{\partial t}
-    = D_F \nabla^2 F
-    + \mu(r)\,F
-    - \gamma_F F
-    - \beta_F F^3
-    + g_\mathrm{fb}\,\Sigma
-  $$
+$$\frac{\partial F}{\partial t} = D_F \nabla^2 F$$
+$$+ \mu(r)\,F$$
+$$- \gamma_F\,F$$
+$$- \beta_F\,F^3$$
+$$+ g_\mathrm{fb}\,\Sigma$$
+
 
 - $$\(\Sigma\)$$ diffuses, is deposited where $$\(F^2\)$$ is large, and decays slowly:
 
-  $$
-  \frac{\partial \Sigma}{\partial t}
-    = D_\Sigma \nabla^2 \Sigma
-    + k_\mathrm{dep}\,F_\mathrm{clip}^2
-    - \lambda\,\Sigma
-  $$
+$$\frac{\partial \Sigma}{\partial t} = D_\Sigma \nabla^2 \Sigma$$
+$$+ k_\mathrm{dep}\,F_\mathrm{clip}^2$$
+$$- \lambda\,\Sigma$$
+
 
 where:
 
